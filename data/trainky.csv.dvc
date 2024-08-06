@@ -1,0 +1,5 @@
+outs:
+- md5: 00adc45a70715405ca043bf7f5884970
+  size: 1430
+  hash: md5
+  path: trainky.csv
